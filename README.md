@@ -138,5 +138,4 @@ It runs all 12 tests (10–20 minutes) and prints a table. Every line should say
 **Siam Al Shafin** — EEE graduate, Islamic University of Technology (IUT).
 I set the direction, made the design decisions, and ran every test.
 
-The design document, hardware code, and tests were written with the help of an AI assistant
-(Claude, by Anthropic), and checked by running the tests in this repository.
+
